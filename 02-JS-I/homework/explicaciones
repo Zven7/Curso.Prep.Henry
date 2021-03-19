@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+Las variables son como contenedores que dentro tienen informacion de distintos tipos.
+
+Strings:
+Es como se le llama a las variables de tipo texto(Tambien estan presentes solo como texto sin ser necesariamente una variable ej. en un return).
+
+Funciones (argumentos, return):
+Las funciones son acciones que estan predefinidas y, los argumentos son variables que se pueden introducir en las mismas para cambiar algunas cosas en el 
+resultado final. Por ej. Tenemos la funcion HacerJugo y en esta funcion tenemos un argumento, que podria ser el sabor, entonces cada vez que ejecutamos la 
+funcion HacerJugo, hacemos un jugo como la misma dice, pero al cambiar el parametro de sabor, podemos realizar Jugos de distintos Sabores.
+return se utiliza para que la funcion devuelva informacion.
+
+Declaraciones if:
+Estas son declaraciones que son dependientes de algunos factores. Por ejemplo, ejecutar la funcion HacerJugo si tengo sed, si no tengo sed, no hacer nada.
+
+Valores booleanos (true, false):
+Los booleanos se pueden usar como si fueran botones de encendido y apagado. Volviendo al ejemplo anterior, en la declaracion if se depende de que el factor "Tengo sed"
+sea cierto(o True) y si es asi, se ejecuta la accion, de ser Falso, no sucede nada(Tambien se puede utilizar al reves, por ej Si no tengo suficiente hidratacion, HacerJugo).
