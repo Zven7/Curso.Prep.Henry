@@ -1,0 +1,19 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos:
+Los objetos son un conjunto de propiedades que se pueden utilizar para guardar informacion.
+Estos pueden contener todo tipo de variables, funciones, objetos, etc. para luego ser llamados utilizando los nombres asignados a dicha propiedad en cuestion.
+
+Propiedades:
+Son "Nombres" a los que podemos asignarles valores para luego utilizarlos de diferentes maneras.
+
+Métodos:
+Asi se le llama a las funciones que estan definidas dentro de un objeto.
+
+Bucle for…in:
+Los bucles for in son usados para encontrar un objeto con nombre clave "x" en determinado objeto.
+
+Notación de puntos vs notación de corchetes:
+La principal diferencia esta en que, usando la notacion de corchetes no existen limitaciones para utilizar las variables, en cambio usando la notacion de puntos
+debemos respetar los nombres de la misma manera que cuando creamos una variable.
