@@ -1,0 +1,40 @@
+body{
+    /* border: #7711912d 1px dotted; */
+    display: flex;
+    padding-right: 15em;
+    color: #f6f5f5;
+    background-color: #1687a7;
+    margin-top: 2.2em;
+    
+}
+
+#firstHr {
+    margin-top: 3px;
+}
+
+hr {
+    margin-top: 1px;
+    border-width: 0.2em;
+    padding: 0px;
+    color: #276678;
+}
+
+h1 {
+    margin-bottom: 0.2rem;
+    justify-content: flex-end;
+    margin-left: 5.3em;
+}
+
+h3{
+    margin-top: 1.5em;
+}
+
+img {
+    width: 10em;
+    border-radius:  50%;
+    border-color: #276678;
+    border-width: 0.2rem;
+    border-style: solid;
+    margin-left: 11.5em;
+    margin-top: 17em;
+}
